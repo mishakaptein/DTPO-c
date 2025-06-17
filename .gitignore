@@ -1,0 +1,7 @@
+/out
+/out_continuous
+/out_even_zero
+/out_plots
+/venv
+*.DS_Store
+**/__pycache__/
